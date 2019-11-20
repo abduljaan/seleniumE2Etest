@@ -1,0 +1,92 @@
+[
+  {
+    "line": 1,
+    "elements": [
+      {
+        "comments": [
+          {
+            "line": 3,
+            "value": "#Writer : Abdul Quddus"
+          },
+          {
+            "line": 4,
+            "value": "#environment PP"
+          }
+        ],
+        "line": 6,
+        "name": "Table Data Search",
+        "description": "",
+        "id": "testing-table-functionality-of-selenium-easy;table-data-search",
+        "type": "scenario",
+        "keyword": "Scenario",
+        "steps": [
+          {
+            "result": {
+              "status": "undefined"
+            },
+            "line": 10,
+            "name": "user navigates to selenium easy site",
+            "match": {},
+            "keyword": "Given "
+          },
+          {
+            "result": {
+              "status": "undefined"
+            },
+            "line": 11,
+            "name": "user click on table tab",
+            "match": {},
+            "keyword": "Then "
+          },
+          {
+            "result": {
+              "status": "undefined"
+            },
+            "line": 12,
+            "name": "user click on Table Data Search",
+            "match": {},
+            "keyword": "Then "
+          },
+          {
+            "result": {
+              "status": "undefined"
+            },
+            "line": 13,
+            "name": "user filters test data by entering value",
+            "match": {},
+            "keyword": "Then "
+          },
+          {
+            "result": {
+              "status": "undefined"
+            },
+            "line": 14,
+            "name": "user clicks on filter tab",
+            "match": {},
+            "keyword": "Then "
+          },
+          {
+            "result": {
+              "status": "undefined"
+            },
+            "line": 15,
+            "name": "user enters some value in value inbox",
+            "match": {},
+            "keyword": "Then "
+          }
+        ],
+        "tags": [
+          {
+            "line": 5,
+            "name": "@smoke"
+          }
+        ]
+      }
+    ],
+    "name": "Testing Table functionality of selenium Easy",
+    "description": "",
+    "id": "testing-table-functionality-of-selenium-easy",
+    "keyword": "Feature",
+    "uri": "src/test/resources/features/seleniumesasyTable.feature"
+  }
+]
